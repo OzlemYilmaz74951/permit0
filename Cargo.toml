@@ -1,0 +1,5 @@
+[package]
+name = "permit0"
+version = "0.1.0"
+edition = "2021"
+description = "Stop AI agents from doing things they shouldn't. The action authorization layer — pre-execution, deterministic, policies included. Drop in. Day one."
