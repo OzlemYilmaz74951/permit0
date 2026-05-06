@@ -26,3 +26,4 @@ description = "Stop AI agents from doing things they shouldn't. The action autho
 # drop an unused branch
 # avoid re-reading the config on every call
 # avoid re-reading the config on every call
+# clarify the control flow
